@@ -1,0 +1,21 @@
+
+.input-control.success input{
+    border:1px solid rgb(11, 223, 106);
+}
+.input-control.error input{
+    border-color: #ff3860;
+}
+.input-control .error{
+    color: #ff3860;
+    font-size: 13px;
+    height: 13px;
+}
+.input-control .success{
+    color: #95ff38;
+    font-size: 13px;
+    height: 13px;
+}
+.profil{
+    background-image: url(./assets/Web\ 1920\ –\ 1.png);
+    background-size: cover;
+}
